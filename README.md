@@ -24,6 +24,7 @@ A curated list of resources, tools, datasets, and research papers for detecting 
 - **CoDet-M4: Detecting Machine-Generated Code in Multi-Lingual, Multi-Generator and Multi-Domain Settings** *(ACL 2025 Findings)* | [Paper](#) | [Code](#)
 - **Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors** *(ACL 2025 Findings)* | [Paper](#) | [Code](#)
 - **When Detection Fails: The Power of Fine-Tuned Models to Generate Human-Like Social Media Text** *(ACL 2025 Findings)* | [Paper](#) | [Code](#)
+- **C2MR: Continual Cross-Modal Retrieval for Streaming Multi-modal Data** *(ACM MM 2023)* | [Paper](#) | [Code](#)
 
 #### **Fact-Checking and Verification**
 - **FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models** *(ACL 2025 Main)* | [Paper](#) | [Code](#)
@@ -50,6 +51,11 @@ A curated list of resources, tools, datasets, and research papers for detecting 
 - **FGDGNN: Fine-Grained Dynamic Graph Neural Network for Rumor Detection on Social Media** *(ACL 2025 Findings)* | [Paper](#) | [Code](#)
 - **MONTROSE: LLM-driven Monte Carlo Tree Search Self-Refinement for Cross-Domain Rumor Detection** *(ACL 2025 Findings)* | [Paper](#) | [Code](#)
 - **MultiHoax: A Dataset of Multi-hop False-premise questions** *(ACL 2025 Findings)* | [Paper](#) | [Code](#)
+- **T3RD: Test-Time Training for Rumor Detection on Social Media** *(WWW 2024)* | [Paper](#) | [Code](#)
+- **Learning Temporal Event Knowledge for Continual Social Event Classification** *(IEEE TKDE 2025)* | [Paper](#) | [Code](#)
+- **Multi-Modal Meta Multi-Task Learning for Social Media Rumor Detection** *(IEEE TMM 2022)* | [Paper](#) | [Code](#)
+- **Multimodal Disentangled Domain Adaption for Social Media Event Rumor Detection** *(IEEE TMM 2021)* | [Paper](#) | [Code](#)
+- **Multi-modal Knowledge-aware Event Memory Network for Social Media Rumor Detection** *(ACM MM 2019)* | [Paper](#) | [Code](#)
 
 #### **Bias and Harmful Content Detection**
 - **Hatevolution: What Static Benchmarks Don't Tell Us** *(ACL 2025 Findings)* | [Paper](#) | [Code](#)
