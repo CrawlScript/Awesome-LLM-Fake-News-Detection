@@ -4,7 +4,7 @@ A curated list of resources, tools, datasets, and research papers for detecting 
 ## 📚 Research Papers
 
 #### **Fake News and Misinformation Detection**
-- **Synergizing LLMs with Global Label Propagation for Multimodal Fake News Detection** *(ACL 2025 Main)* | [Paper](#) | [Code](#)
+- **Synergizing LLMs with Global Label Propagation for Multimodal Fake News Detection** *(ACL 2025 Main)* | [Paper](https://arxiv.org/abs/2506.00488) | [Code](#)
 - **Real-time Fake News from Adversarial Feedback** *(ACL 2025 Main)* | [Paper](#) | [Code](#)
 - **Generate First, Then Sample: Enhancing Fake News Detection with LLM-Augmented Reinforced Sampling** *(ACL 2025 Main)* | [Paper](#) | [Code](#)
 - **PCoT: Persuasion-Augmented Chain of Thought for Detecting Fake News and Social Media Disinformation** *(ACL 2025 Main)* | [Paper](#) | [Code](#)
